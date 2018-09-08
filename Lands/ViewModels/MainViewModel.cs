@@ -21,7 +21,7 @@ namespace Lands.ViewModels
             get;
             set;
         }
-        public User User
+        public UserLocal User
         {
             get;
             set;
