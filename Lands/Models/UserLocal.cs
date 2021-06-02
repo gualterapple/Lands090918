@@ -1,4 +1,4 @@
-﻿namespace Lands.Models
+namespace Lands.Models
 {
     using SQLite.Net.Attributes;
 

@@ -1,4 +1,4 @@
-﻿namespace Lands.ViewModels
+namespace Lands.ViewModels
 {
     using System.Windows.Input;
     using Domain;
